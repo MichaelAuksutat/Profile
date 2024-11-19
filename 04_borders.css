@@ -4,8 +4,9 @@
   /* border-color: darkred; */
 
   border: 2px solid darkred;
-  /* border-style: dashed; */
-  border-radius: 5px;
+  border-style: none;
+  border-radius: 10px;
+  padding: 20px;
 }
 
 /* .circle {
@@ -29,3 +30,5 @@
   padding-left: 10px;
   color: #fff;
 }
+
+

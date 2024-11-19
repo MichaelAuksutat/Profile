@@ -60,3 +60,9 @@
 .navbar ul li:last-child {
   margin-right: 0;
 }
+
+#caption {
+  display: table-caption;
+ }
+
+ 
